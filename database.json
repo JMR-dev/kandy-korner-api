@@ -1,0 +1,79 @@
+{
+"locations": [
+    {"id":1,
+    "name": "Kandy Kastle",
+    "address": "5789 Thompson Lane, Nashville, TN, 37860" 
+},
+{   "id":2,
+    "name": "Heath-Row",
+    "address": "8347 Picadilly Trace, Louisville, KY, 38960" 
+},
+{   "id":3,
+    "name": "Kandy Kastle",
+    "address": "213 Appalachia Way, Knoxville, TN, 37203" 
+}
+],
+
+"products": [
+    {"id":1,
+    "candyName":"Heath Bar",
+    "price":1.50},
+    {"id":2,
+        "candyName":"Lollipop",
+        "price":2.50}
+],
+
+"employees":[
+    {"id":1,
+    "name": "Elena Pearson",
+    "hourlyPayRate": 15.00,
+    "locationId": 3,
+    "fullTime": true,
+    "manager": "Steve"
+
+    },
+        {"id":2,
+        "name": "Mark Leeson",
+        "hourlyPayRate": 14.50,
+        "locationId": 2,
+        "fullTime": true,
+        "manager": "Monica"
+    
+
+    },
+    {   "id":3,
+        "name": "Shelly Krystal",
+        "hourlyPayRate": 12.00,
+        "locationId": 1,
+        "fullTime": false,
+        "manager": "Taryn"
+    
+    }
+],
+
+"productTypes":
+[ {"id":1,
+    "candyType": "Candy Bar"},
+    {"id":2,
+    "candyType": "Hard Candy"}
+],
+
+"customers":
+[
+{"id":1,
+    "name":"Elias Ferguson",
+    "email": "yeauldscot@yahoo.co.uk"},
+    {"id":2,
+    "name": "Ysabel Benhadid",
+    "email": "baruchhashem@vodafone.com.is"}
+],
+
+"purchases":
+[
+
+],
+"productStockAndLocation":
+[
+
+]
+}
