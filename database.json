@@ -27,6 +27,12 @@
             "candyName": "Lollipop",
             "price": 2.50,
             "productTypeId": 2
+        },
+        {
+            "id":3,
+            "candyName":"Chocolate Bar",
+            "price": 3.00,
+            "productTypeId":4
         }
     ],
 
