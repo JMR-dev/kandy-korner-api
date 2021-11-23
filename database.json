@@ -11,7 +11,7 @@
         },
         {
             "id": 3,
-            "name": "Kandy Kastle",
+            "name": "Licorice Store",
             "address": "213 Appalachia Way, Knoxville, TN, 37203"
         }
     ],
@@ -67,6 +67,18 @@
         {
             "id": 2,
             "candyType": "Hard Candy"
+        },
+        {
+            "id":3,
+            "candyType":"Gum"
+        },
+        {
+            "id":4,
+            "candyType":"Chocolate"
+        },
+        {
+            "id":5,
+            "candyType":"Sodas"
         }
     ],
 
