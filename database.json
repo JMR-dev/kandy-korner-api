@@ -19,12 +19,14 @@
     "products": [{
             "id": 1,
             "candyName": "Heath Bar",
-            "price": 1.50
+            "price": 1.50,
+            "productTypeId":1
         },
         {
             "id": 2,
             "candyName": "Lollipop",
-            "price": 2.50
+            "price": 2.50,
+            "productTypeId": 2
         }
     ],
 
